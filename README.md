@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Currently diving into the world of programming and soaking up knowledge<br>- 🌍 Passionate about exploring new places, meeting people, and embracing diverse cultures<br>- 🎵 A musical enthusiast, adept at playing melodies on diverse instruments<br>- 📬 Feel free to reach out to me via email at andrej.samuel.zigo@gmail.com<br>- 📋 Check out my resume here and get to know me better</p>
+<p align="left">- 👨‍💻 Currently diving into the world of programming and soaking up knowledge<br>- 🌍 Passionate about exploring new places, meeting people, and embracing diverse cultures<br>- 🎵 A musical enthusiast, adept at playing melodies on diverse instruments<br>- 📬 Feel free to reach out to me via email at <a href="mailto:andrej.samuel.zigo@gmail.com">andrej.samuel.zigo@gmail.com</a><br>- 📋 Check out my resume <a href="resume.pdf">here</a> and get to know me better</p>
 
 ###
 
