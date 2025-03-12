@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">❤️ Welcome to my Github Profile!<br>I'm a student in Bratislava, Slovakia, and I love programming. 💻<br>I'm passionate about new technologies and how the IT industry is changing the world. 🚀</p>
+<p align="center">❤️ Welcome to my Github Profile!<br>I'm a student in Krems an der Donau, Austria, and I love programming. 💻<br>I'm passionate about new technologies and how the IT industry is changing the world. 🚀</p>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Currently diving into the world of programming and soaking up knowledge<br>- 🌍 Passionate about exploring new places, meeting people, and embracing diverse cultures<br>- 🎵 A musical enthusiast, adept at playing melodies on diverse instruments<br>- 📬 Feel free to reach out to me via email at <a href="mailto:andrej.samuel.zigo@gmail.com">andrej.samuel.zigo@gmail.com</a><br>- 📋 Check out my resume <a href="resume.pdf">here</a> and get to know me better</p>
+<p align="left">- 👨‍💻 Currently studying Informatics Bachelors degree at University of Applied Sciences: IMC Krems<br>- 🌍 Passionate about exploring new places, meeting people, and embracing diverse cultures<br>- 🎵 A musical enthusiast, adept at playing melodies on diverse instruments<br>- 📬 Feel free to reach out to me via email at <a href="mailto:andrej.samuel.zigo@gmail.com">andrej.samuel.zigo@gmail.com</a><br>- 📋 Check out my resume <a href="resume.pdf">here</a> and get to know me better</p>
 
 ###
 
